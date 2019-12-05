@@ -28,3 +28,4 @@ public func lengthOfLongestSubString(_ s: String) -> Int {
     }
     return maxLength
 }
+

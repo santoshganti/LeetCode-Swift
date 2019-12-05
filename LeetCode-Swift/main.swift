@@ -9,8 +9,8 @@
 import Foundation
 
 // MARK: Two Sum
-print("1. Two Sum Problem")
-print(twoSum([2, 7, 11, 15], 9))
+//print("1. Two Sum Problem")
+//print(twoSum([2, 7, 11, 15], 9))
 
 // MARK: Valid Palindrome
 
