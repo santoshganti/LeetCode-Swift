@@ -173,6 +173,7 @@
 		7963AE862399B4D60065E07B /* SubarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AE852399B4D60065E07B /* SubarraySumEqualsK.swift */; };
 		7963AE882399B4E30065E07B /* SquaresOfSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AE872399B4E30065E07B /* SquaresOfSortedArray.swift */; };
 		7963AE8A2399B4F90065E07B /* SparseMatrixMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AE892399B4F90065E07B /* SparseMatrixMultiplication.swift */; };
+		7963AE8C2399C7170065E07B /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AE8B2399C7170065E07B /* ListNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -355,6 +356,7 @@
 		7963AE852399B4D60065E07B /* SubarraySumEqualsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumEqualsK.swift; sourceTree = "<group>"; };
 		7963AE872399B4E30065E07B /* SquaresOfSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresOfSortedArray.swift; sourceTree = "<group>"; };
 		7963AE892399B4F90065E07B /* SparseMatrixMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparseMatrixMultiplication.swift; sourceTree = "<group>"; };
+		7963AE8B2399C7170065E07B /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -465,6 +467,7 @@
 				7963AD5A239999830065E07B /* CopyListWithRandomPointer.swift */,
 				7963ADC92399A1440065E07B /* RemoveNthNodeFromEndOfList.swift */,
 				7963AE272399AF2A0065E07B /* ReorderList.swift */,
+				7963AE8B2399C7170065E07B /* ListNode.swift */,
 			);
 			path = LinkedList;
 			sourceTree = "<group>";
@@ -761,6 +764,7 @@
 				7963ADF12399A2FA0065E07B /* InsertInterval.swift in Sources */,
 				7963AD9E23999C4F0065E07B /* ExcelSheetColumnNumber.swift in Sources */,
 				7963AE0A2399ADBE0065E07B /* Candy.swift in Sources */,
+				7963AE8C2399C7170065E07B /* ListNode.swift in Sources */,
 				7963ADA023999C5C0065E07B /* FindTheCelebrity.swift in Sources */,
 				7963ADE72399A27A0065E07B /* StrobrogrammaticNumber2.swift in Sources */,
 				7963AD36239997FB0065E07B /* StringToInteger.swift in Sources */,
