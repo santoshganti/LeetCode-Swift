@@ -5,8 +5,7 @@
 //  Created by Santosh Ganti on 12/4/19.
 //  Copyright © 2019 SantoshGanti. All rights reserved.
 //
-
-// import Foundation
+// https://leetcode.com/problems/longest-substring-without-repeating-characters/
 public func lengthOfLongestSubString(_ s: String) -> Int {
     if s.count == 0 {
         return 0
