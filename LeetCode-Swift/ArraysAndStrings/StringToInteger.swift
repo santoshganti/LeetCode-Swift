@@ -6,4 +6,6 @@
 //  Copyright © 2019 SantoshGanti. All rights reserved.
 //  https://leetcode.com/problems/string-to-integer-atoi/
 
-import Foundation
+public func myAtoi(_ str: String) -> Int {
+    return 0
+}

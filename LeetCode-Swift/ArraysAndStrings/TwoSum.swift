@@ -7,5 +7,5 @@
 //  https://leetcode.com/problems/two-sum/
 
 public func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-    
+    return [0]
 }
