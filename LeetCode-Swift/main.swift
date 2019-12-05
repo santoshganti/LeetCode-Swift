@@ -16,4 +16,4 @@ import Foundation
 
 // MARK: Length of the longest substring
 print("3. Length of Longest Substring")
-print(lengthOfLongestSubString("bbbbb"))
+print(lengthOfLongestSubString("eceba"))
