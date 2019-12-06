@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7379719E23989C8600D616FF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7379719D23989C8600D616FF /* main.swift */; };
+		737971B5239A146800D616FF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737971B4239A146800D616FF /* main.swift */; };
 		7963AD33239997D20065E07B /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AD32239997D20065E07B /* TwoSum.swift */; };
 		7963AD36239997FB0065E07B /* StringToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AD35239997FB0065E07B /* StringToInteger.swift */; };
 		7963AD382399980E0065E07B /* ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AD372399980E0065E07B /* ReverseString.swift */; };
@@ -191,7 +191,7 @@
 
 /* Begin PBXFileReference section */
 		7379719A23989C8600D616FF /* LeetCode-Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "LeetCode-Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7379719D23989C8600D616FF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		737971B4239A146800D616FF /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7963AD32239997D20065E07B /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		7963AD35239997FB0065E07B /* StringToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringToInteger.swift; sourceTree = "<group>"; };
 		7963AD372399980E0065E07B /* ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseString.swift; sourceTree = "<group>"; };
@@ -391,6 +391,7 @@
 		7379719C23989C8600D616FF /* LeetCode-Swift */ = {
 			isa = PBXGroup;
 			children = (
+				737971B4239A146800D616FF /* main.swift */,
 				7963AD2B23998B930065E07B /* ArraysAndStrings */,
 				7963AD2C239996F70065E07B /* LinkedList */,
 				7963AD2D239996FF0065E07B /* TreesAndGraphs */,
@@ -400,7 +401,6 @@
 				7963AD302399975F0065E07B /* DynamicProgramming */,
 				7963AD31239997680065E07B /* Design */,
 				7963AD9A23999C100065E07B /* Others */,
-				7379719D23989C8600D616FF /* main.swift */,
 			);
 			path = "LeetCode-Swift";
 			sourceTree = "<group>";
@@ -743,6 +743,7 @@
 				7963AD51239999300065E07B /* AddTwoNumbers.swift in Sources */,
 				7963AD412399989C0065E07B /* LongestPalindromicSubsequence.swift in Sources */,
 				7963AE202399AEE20065E07B /* LongestSubstringWithAtMostKDistinctCharacters.swift in Sources */,
+				737971B5239A146800D616FF /* main.swift in Sources */,
 				7963AE222399AEF10065E07B /* ValidateIP.swift in Sources */,
 				7963AD7123999A7C0065E07B /* CloneGraph.swift in Sources */,
 				7963AD4B239998F30065E07B /* SpiralMatrix.swift in Sources */,
@@ -782,7 +783,6 @@
 				7963AD532399993E0065E07B /* AddTwoNumbers2.swift in Sources */,
 				7963AE3E2399B0E90065E07B /* Subsets.swift in Sources */,
 				7963AD3F239998870065E07B /* ValidParanthesis.swift in Sources */,
-				7379719E23989C8600D616FF /* main.swift in Sources */,
 				7963AD9323999BC80065E07B /* SerializeAndDeserializeBST.swift in Sources */,
 				7963AE262399AF0D0065E07B /* OneEditDistance.swift in Sources */,
 				7963ADEF2399A2ED0065E07B /* MergeIntervals.swift in Sources */,
@@ -983,6 +983,7 @@
 		737971A223989C8600D616FF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 64MYASTRX2;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -994,6 +995,7 @@
 		737971A323989C8600D616FF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 64MYASTRX2;
 				ENABLE_HARDENED_RUNTIME = YES;
