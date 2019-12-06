@@ -174,6 +174,7 @@
 		7963AE882399B4E30065E07B /* SquaresOfSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AE872399B4E30065E07B /* SquaresOfSortedArray.swift */; };
 		7963AE8A2399B4F90065E07B /* SparseMatrixMultiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AE892399B4F90065E07B /* SparseMatrixMultiplication.swift */; };
 		7963AE8C2399C7170065E07B /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AE8B2399C7170065E07B /* ListNode.swift */; };
+		7963AE8E2399CD3D0065E07B /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7963AE8D2399CD3D0065E07B /* TreeNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -357,6 +358,7 @@
 		7963AE872399B4E30065E07B /* SquaresOfSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresOfSortedArray.swift; sourceTree = "<group>"; };
 		7963AE892399B4F90065E07B /* SparseMatrixMultiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparseMatrixMultiplication.swift; sourceTree = "<group>"; };
 		7963AE8B2399C7170065E07B /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
+		7963AE8D2399CD3D0065E07B /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -506,6 +508,7 @@
 				7963AE332399B0A30065E07B /* BinaryTreeVerticalOrderTraversal.swift */,
 				7963AE782399B43E0065E07B /* SameTree.swift */,
 				7963AE7A2399B44B0065E07B /* MaximumDepthOfBinaryTree.swift */,
+				7963AE8D2399CD3D0065E07B /* TreeNode.swift */,
 			);
 			path = TreesAndGraphs;
 			sourceTree = "<group>";
@@ -809,6 +812,7 @@
 				7963ADCA2399A1440065E07B /* RemoveNthNodeFromEndOfList.swift in Sources */,
 				7963AD8523999B2E0065E07B /* SearchRotatedSortedArray.swift in Sources */,
 				7963AE302399B0800065E07B /* ConvertBinarySearchTreeToSortedDoublyLinkedList.swift in Sources */,
+				7963AE8E2399CD3D0065E07B /* TreeNode.swift in Sources */,
 				7963AD6723999A010065E07B /* PopulatingNextRightPointerinEachNode2.swift in Sources */,
 				7963AE502399B2770065E07B /* DecodeWays.swift in Sources */,
 				7963AD8B23999B560065E07B /* MedianOfTwoSortedArrays.swift in Sources */,

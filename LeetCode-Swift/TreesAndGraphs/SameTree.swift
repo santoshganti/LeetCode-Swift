@@ -6,4 +6,6 @@
 //  Copyright © 2019 SantoshGanti. All rights reserved.
 //
 
-import Foundation
+public func isSameTree(_ p: TreeNode?, _ q: TreeNode?) -> Bool {
+    return false
+}

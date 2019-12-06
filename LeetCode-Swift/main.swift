@@ -18,4 +18,4 @@ import Foundation
 print("3. Length of Longest Substring")
 print(lengthOfLongestSubString("eceba"))
 
-print(reverseList(ListNode(1)))
+//print(reverseList(ListNode(1)))
